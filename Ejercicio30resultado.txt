@@ -1,0 +1,6 @@
+<p><b>Fernando</b> (<a href=\mailto:fernando@hotmail.com">fernando@hotmail.com</a>) wrote on <i>25-3-27</i>;<br>No se</p>
+ 
+ <p><b>Pedro</b> (<a href=\mailto:pedro@gmail.com">pedro@gmail.com</a>) wrote on <i>25-3-24</i>;<br>Hola</p>
+ 
+ <p><b>Juan</b> (<a href="mailto:juan@gmail.com">juan@gmail.com</a>) wrote on <i>25-3-24</i>:<br>Prueba</p>
+

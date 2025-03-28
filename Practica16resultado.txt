@@ -1,0 +1,29 @@
+Nombre: Juan
+Dirección: Buenavistasur
+Pedido:
+- Jamón y Queso: 3 unidades
+- Mozzarella: 4 unidades
+------------------------------
+Nombre: Pedro
+Dirección: Ordaz
+Pedido:
+- Jamón y Queso: 10 unidades
+- Mozzarella: 1 unidades
+------------------------------
+Nombre: Prueba
+Dirección: asdfwdf
+Pedido:
+- Jamón y Queso: 1 unidades
+------------------------------
+Nombre: erg
+Dirección: egf
+Pedido:
+- Napolitana: 1 unidades
+------------------------------
+Nombre: Jose
+Dirección: Centro
+Pedido:
+- Jamón y Queso: 2 unidades
+- Napolitana: 4 unidades
+- Mozzarella: 7 unidades
+------------------------------
